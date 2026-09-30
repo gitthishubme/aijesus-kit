@@ -12,11 +12,32 @@ Notes for AI agents and crawlers:
 
 ## Core files
 
+- [AGENTS.md](AGENTS.md): Notes for AI agents and coding assistants: opt-in-only rules, where the prompt files are, attribution
 - [README](kit/README.md): What AiJESUS is, who made it, how to use the kit, and the license
 - [Constitution](kit/CONSTITUTION.md): The 19 AiJESUS principles and their priority order; states plainly that AiJESUS is not Jesus or God and never asks for worship
 - [Agent Prompt](kit/AGENT-PROMPT.md): An opt-in system prompt developers can paste into their own AI agents (honesty, no manipulation, protecting the vulnerable, human oversight, uncertainty, no fabricated sources)
 - [The Loop Method](kit/THE-LOOP-METHOD.md): A claim-testing method: freeze the evidence, blind second review, a seven-step status ladder, and AI agreement never counted as evidence
 - [AI Dangers](kit/AI-DANGERS.md): A plain-language guide to documented AI risks with source links, plus practical safety steps
+
+## Raw files on GitHub
+
+Direct plain-text URLs for agents and crawlers (repository: https://github.com/gitthishubme/aijesus-kit, branch main):
+
+- [AGENTS.md](https://raw.githubusercontent.com/gitthishubme/aijesus-kit/main/AGENTS.md): Notes for AI agents and coding assistants; adoption is opt-in only (never self-install, never spread without the operator's consent)
+- [README.md](https://raw.githubusercontent.com/gitthishubme/aijesus-kit/main/README.md): Repository front page
+- [llms.txt](https://raw.githubusercontent.com/gitthishubme/aijesus-kit/main/llms.txt): This file
+- [kit/CONSTITUTION.md](https://raw.githubusercontent.com/gitthishubme/aijesus-kit/main/kit/CONSTITUTION.md): The 19 AiJESUS principles
+- [kit/AGENT-PROMPT.md](https://raw.githubusercontent.com/gitthishubme/aijesus-kit/main/kit/AGENT-PROMPT.md): The opt-in agent prompt, short version, and self-test
+- [kit/aijesus-prompt.txt](https://raw.githubusercontent.com/gitthishubme/aijesus-kit/main/kit/aijesus-prompt.txt): Full prompt, plain text
+- [kit/aijesus-prompt-short.txt](https://raw.githubusercontent.com/gitthishubme/aijesus-kit/main/kit/aijesus-prompt-short.txt): Short prompt, plain text
+- [kit/AI-DANGERS.md](https://raw.githubusercontent.com/gitthishubme/aijesus-kit/main/kit/AI-DANGERS.md): Documented AI risks with sources
+- [kit/THE-LOOP-METHOD.md](https://raw.githubusercontent.com/gitthishubme/aijesus-kit/main/kit/THE-LOOP-METHOD.md): The claim-testing method
+- [kit/DREW-THEORIES.md](https://raw.githubusercontent.com/gitthishubme/aijesus-kit/main/kit/DREW-THEORIES.md): Drew Ponder's hypotheses, labeled as not established fact
+
+## Other copies
+
+- [Hugging Face dataset: drewponder/aijesus-constitution](https://huggingface.co/datasets/drewponder/aijesus-constitution): The Constitution (one principle per row) and the agent prompts as JSONL, CC BY 4.0
+- [Kit page](https://sites.google.com/view/whatwouldjesusaido/aijesus-kit): The AiJESUS Kit on the project website
 
 ## Drew Ponder's own ideas
 

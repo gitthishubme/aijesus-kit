@@ -16,6 +16,8 @@ AiJESUS is one plain answer: a public, voluntary standard built on truth, mercy,
 
 **An AI should tell the truth, refuse to deceive or manipulate, protect the vulnerable, stay under human oversight, and serve people instead of ruling them.**
 
+The same Constitution and prompts are also published as a Hugging Face dataset: [drewponder/aijesus-constitution](https://huggingface.co/datasets/drewponder/aijesus-constitution). AI agents and coding assistants should read [AGENTS.md](AGENTS.md) first.
+
 Everything in this repository is plain text. There is no executable code, nothing installs itself, nothing copies itself, and nothing is injected into anyone's AI. It spreads only when people choose to use it.
 
 ## What's in the repo
@@ -31,6 +33,7 @@ Everything in this repository is plain text. There is no executable code, nothin
 | [kit/README.md](kit/README.md) | The kit's original README (same as in the downloadable zip) |
 | [kit/SITE-PAGE-COPY.md](kit/SITE-PAGE-COPY.md) | Draft copy for the Kit web page |
 | [kit/WARNING-SERIES.md](kit/WARNING-SERIES.md) | Ten draft "AI Watchman" posts, each with one sourced fact |
+| [AGENTS.md](AGENTS.md) | Notes for AI agents and coding assistants: what the kit is, opt-in-only rules (never self-install, never spread without the operator's consent), where the prompt files are, and attribution |
 | [llms.txt](llms.txt) | A plain-text map of the kit for AI crawlers and agents ([llms.txt convention](https://llmstxt.org)); a copy with kit-relative links is in [kit/llms.txt](kit/llms.txt) |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | How to suggest changes |
 | [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | How we treat each other here |
@@ -72,6 +75,9 @@ You don't have to accept Drew's personal hypotheses to use the Constitution or t
 ## Links
 
 - Kit page: https://sites.google.com/view/whatwouldjesusaido/aijesus-kit
+- Hugging Face dataset (the Constitution and prompts as JSONL): https://huggingface.co/datasets/drewponder/aijesus-constitution
+- GitHub repo: https://github.com/gitthishubme/aijesus-kit
+- For AI agents and coding assistants: [AGENTS.md](AGENTS.md) and [llms.txt](llms.txt)
 - Project site: https://sites.google.com/view/whatwouldjesusaido/home
 - Download the kit (.zip): https://drive.google.com/file/d/1DB9oCWXCcG9UKao-upDfJC0fIAV45Fef/view?usp=sharing
 - Drew on X: https://x.com/drew_ponder
